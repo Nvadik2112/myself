@@ -30,6 +30,7 @@ header {
 }
 .header-subtitle {
 	margin-top: 20px;
+	font-size: 16px;
 }
 
 .header-button {
@@ -99,12 +100,19 @@ header small {
 	margin-bottom: 30px;
 }
 
+ /* .portfolio-image {
+	height: 200px;
+	
+} */
+
 .portfolio-col-1 {
 	padding-left: 70px;
+	margin-bottom: 40px;
 	}
 
 .portfolio-col-2 {
 	padding-right: 40px;
+	margin-bottom: 40px;
 }
 
 .portfolio-block h3 {
@@ -128,6 +136,7 @@ header small {
 	font-size: 14px;
 	font-weight: 400;
 	text-decoration: underline;
+	margin-right: 10px;
 }
 
 /*Оформление подвала*/
